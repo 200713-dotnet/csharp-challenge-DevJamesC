@@ -11,9 +11,9 @@ namespace Palindrome.Testing
         [InlineData("Mary")] //should fail
         [InlineData("Donnilas")] //should fail
         [InlineData("Renal")] //should fail
-        [InlineData("Damed")] //should pass
+        [InlineData("Damed")] //should fail
         [InlineData("G@@g")] //should pass (does not though)
-        [InlineData("Beneb")] //should pass
+        [InlineData("Beneb beneb")] //should pass
         public void Test1(string s)
         {
             //arrange
