@@ -1,0 +1,9 @@
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/jkc36/revature/codingChallenges/palindromChallange/csharp-challenge-DevJamesC/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
