@@ -12,7 +12,7 @@ namespace Palindrome.Testing
         [InlineData("Donnilas")] //should fail
         [InlineData("Renal")] //should fail
         [InlineData("Damed")] //should fail
-        [InlineData("G@@g")] //should pass (does not though)
+        [InlineData("G@@g")] //should pass 
         [InlineData("Beneb beneb")] //should pass
         public void Test1(string s)
         {
