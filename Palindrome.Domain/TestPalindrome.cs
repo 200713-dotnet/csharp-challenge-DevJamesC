@@ -2,7 +2,7 @@
 
 namespace Palindrome.Domain
 {
-    public class Class1
+    public class TestPalindrome
     {
 
 

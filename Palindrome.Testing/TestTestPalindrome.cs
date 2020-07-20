@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Palindrome.Testing
 {
-    public class UnitTest1
+    public class TestTestPalindrome
     {
       [Theory]
         [InlineData("Mary")]
@@ -16,7 +16,7 @@ namespace Palindrome.Testing
         [InlineData("Beneb")]
         public void Test1(string s)
         {
-            Palindrome.Domain.Class1 sut = new Palindrome.Domain.Class1();
+            Palindrome.Domain.TestPalindrome sut = new Palindrome.Domain.TestPalindrome();
 
             bool b=sut.TestPal(s);
 
